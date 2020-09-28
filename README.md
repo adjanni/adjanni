@@ -1,7 +1,6 @@
 ### Greetings from Norway, I am Axel 👋
 
-!--
-I am signal processing geophysicist with expertise in Machine Learning. My aim is to use my current skill and gain competencies to impact medical imaging, diagnostic and therapeutic medicine, and radar imaging. My interest in medical imaging led me to enrolled to the [Computer Vision Expert Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891). I am currently working, part-time, on the development of a mathematical formula to improve the estimation of the Non Propagation Delay in ultrasound medical imaging.
+I am a **signal processing geophysicist** with expertise in **Machine Learning**. My aim is to use my current skill and gain competencies to impact medical imaging, diagnostic and therapeutic medicine, and radar imaging. My interest in medical imaging led me to enrolled to the [Computer Vision Expert Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891). I am currently working, part-time, on the development of a mathematical formula to improve the estimation of the Non Propagation Delay in ultrasound medical imaging.
 
 I enjoy working on Matlab, C++/C, Python, and Octave.
 
