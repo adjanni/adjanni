@@ -4,13 +4,17 @@ I am a **signal processing geophysicist** with expertise in **Machine Learning**
 
 I enjoy working on Matlab, C++/C, Python, and Octave.
 
-I am opened to full-time position as a scientist in signal processing, Machine Learning engineering, or Computer Vision specialist :sparkles: :rocket: .
+I'm opened to full-time position as a scientist in Signal Processing, Machine Learning engineering, or Computer Vision specialist :sparkles: :rocket: .
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Computer Vision, Parallel Computing, and medical ultrasound imaging.
-- 👯 I’m looking to collaborate on skin cancer diagnosis using deeplearning and on the increase of the SNR of medical imaging ultrasound through signal processing & ML. 
-- 💬 Ask me about ML, CV, or signal processing ...
+- 🌱 I’m currently learning Computer Vision, Parallel Computing, and medical ultrasound imaging
+- 👯 I’m looking to collaborate on skin cancer diagnosis using deeplearning and on the increase of the SNR of medical imaging ultrasound through signal processing & ML
+- 💬 Ask me about ML, CV, or Signal Processing
 - 📫 How to reach me: tcheheumeni@gmail.com
 - ⚡ Fun fact: play football, dance tradition African dances, 
---
+
+## Find me around the Web :earth_africa::
+
+- Sharing update on [LinkedIn](https://www.linkedin.com/in/tcheheumeni/) :satellite:
+
