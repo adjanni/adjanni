@@ -1,10 +1,13 @@
-### Greetings from Norway, I am Axel 👋
+## Greetings from Norway, I am Axel 👋
 
-I am a **signal processing geophysicist** with expertise in **Machine Learning**. My aim is to use my current skill and gain competencies to impact medical imaging, diagnostic and therapeutic medicine, and radar imaging. My interest in medical imaging led me to enrolled to the **[Computer Vision Expert Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891)**. I am currently working, part-time, on the development of a mathematical formula to improve the estimation of the Non Propagation Delay in ultrasound medical imaging.
+I am a **signal processing geophysicist** with expertise in **Machine Learning**. My aim is to use my current skill and gain competencies to impact medical imaging, diagnostic and therapeutic medicine, and radar imaging. 
+
+### My Interest :sparkles: 
+My interest in medical imaging led me to enrolled to the **[Computer Vision Expert Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891)**. I am currently working, part-time, on the development of a mathematical formula to improve the estimation of the Non Propagation Delay in ultrasound medical imaging.
 
 I enjoy working on Matlab, C++/C, Python, and Octave.
 
-I'm opened to full-time position as a scientist in Signal Processing, Machine Learning engineering, or Computer Vision specialist :sparkles: :rocket: .
+I'm opened to full-time position as a scientist in Signal Processing, Machine Learning engineering, or Computer Vision specialist :rocket:.
 
 Here are some ideas to get you started:
 
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tcheheumeni@gmail.com
 - ⚡ Fun fact: play football, dance tradition African dances, 
 
-## Find me around the Web :earth_africa::
+### Find me around the Web :earth_africa::
 
 - Sharing update on [LinkedIn](https://www.linkedin.com/in/tcheheumeni/) :satellite:
 
