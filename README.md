@@ -1,6 +1,6 @@
 ## Greetings from Norway, I am Axel 👋
 
-I am a **signal processing geophysicist** with expertise in **Machine Learning**. My aim is to use my current skill and gain competencies to impact medical imaging, diagnostic and therapeutic medicine, and speech recognition. My 8-years old cannot create constructive words and pronounce 
+I am a **signal processing geophysicist** with expertise in **Machine Learning**. My aim is to use my current skill and gain competencies to impact medical imaging, diagnostic and therapeutic medicine, and speech recognition. My 8-years old cannot create constructive words and pronounce speeches as fluent as kids of his age. This is another source of motivation to invest my time and to utilise ML or DL to help him and other children of his kind.
 
 ### My Interest :sparkles: 
 My interest in medical imaging led me to enrolled to the **[Computer Vision Expert Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891)**. I am currently working, part-time, on the development of a mathematical formula to improve the estimation of the Non Propagation Delay in ultrasound medical imaging.
