@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ML, CV, or Signal Processing
 - 📫 How to reach me: tcheheumeni@gmail.com
 - ⚡ Fun fact: play football, dance tradition African dances, 
+- I also give talks and presentation
 
 ### Find me around the Web :earth_africa::
 
